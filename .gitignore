@@ -1,0 +1,34 @@
+# Never commit child-level data, salts, models or run outputs.
+# Data and intermediate files
+*.parquet
+*.pkl
+*.pickle
+*.feather
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.zip
+*.gz
+# Models
+*.keras
+*.joblib
+*.cbm
+*.json.gz
+# Private material and outputs
+private/
+salt*
+*salt*.txt
+runs/
+results/
+outputs/
+artifacts/
+data/
+# Python and notebooks
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
