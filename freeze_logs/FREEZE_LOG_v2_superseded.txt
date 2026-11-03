@@ -1,0 +1,17 @@
+FROZEN BEFORE TEST: 2026-10-11T10:42:44+0700
+epoch selection: val_loss (changed before test was opened)
+de7135682008f4889b7a0359d9cf2ef33d550900e67cbde24b38973a4d3a4b9f  primary/h1/artifacts/meta_dnn.keras
+6c1762cadb98f8fbf96e098533b3e9cfa90e927642daa2011b378478dd3e4b35  primary/h3/artifacts/meta_dnn.keras
+8e1f80439707a87f9b038f30e6a4d84b84564ec4539cce4baee453099684fddc  primary/h6/artifacts/meta_dnn.keras
+4b9a30d8c05191434a46c0f418bdc59137dbcad780ae38ef71659ca0d46923de  primary/h1/artifacts/class_specific_thresholds.npy
+1b69bd3c7cb67aef8f08b37b3d7496648830fa3fe0e42aef9f87346f6580ee94  primary/h3/artifacts/class_specific_thresholds.npy
+a6e5ed4e912672e7b4127d95645163a07d18f26169ef22f0af71b5cfc638a3a1  primary/h6/artifacts/class_specific_thresholds.npy
+41f6b0d38141aa3380e9a9abe14f64af397d9479983bc475573da661c29ea1f7  primary/h1/artifacts/meta_test.npy
+ef62e3c8c9db628399e668d97072a210ece5e2dd833351f0e63abd9703534a65  primary/h3/artifacts/meta_test.npy
+bed92bd9969dc3221241266968ecb5da061be0ffda7a0f62f04ae8587f767748  primary/h6/artifacts/meta_test.npy
+f48419f9f4a5c080745a49da155257265522b3640eaac75b6e57f4d0458c91ab  ../code/mce_ilcadt_future_prediction.py
+h1 thresholds {'normal': 0.27, 'stunted': 0.56, 'severely stunted': 0.44}
+h3 thresholds {'normal': 0.38, 'stunted': 0.24, 'severely stunted': 0.39}
+h6 thresholds {'normal': 0.51, 'stunted': 0.3, 'severely stunted': 0.41}
+heldout result files present: 0
+cfbdbef897b02802fe8ba369de6357dc93de583c061a9f32976262987d45debd  frozen_ae_v2.tgz

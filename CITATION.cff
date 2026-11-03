@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the article and this deposit."
+title: "MCE–ILCADT future nutritional status: code and analysis plans"
+version: "1.0"
+authors:
+  - family-names: Alam
+    given-names: Wa Ode Siti Nur
+  - family-names: Sari
+    given-names: Riri Fitri
+    email: riri@ui.ac.id
+  - family-names: Harwahyu
+    given-names: Ruki
+keywords: [stunting, growth monitoring, prediction model, stacking ensemble, temporal validation, e-PPGBM, Indonesia]

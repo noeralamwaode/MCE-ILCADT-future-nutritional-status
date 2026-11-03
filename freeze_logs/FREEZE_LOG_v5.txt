@@ -1,0 +1,1 @@
+2026-10-17T10:14:18+07:00 | SAP_v5.md frozen | SHA-256 dab1e43e42c6e696a963fbba845ab6bbee9ae0096a7ce618993fcb04c48a1aa0 | draft v0.3 d2c8d853494b0d9c45987d6a4fd2fd208538ada34e7d60a679682fb988d50df4 | approved by user; no v5 code written or run yet

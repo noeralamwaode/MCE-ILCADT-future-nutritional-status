@@ -1,0 +1,20 @@
+FROZEN BEFORE TEST (v3, 32 bulan termasuk 2025-09): 2026-10-11T18:50:58+0800
+epoch selection: val_loss; konfigurasi dan batas bulan sama dengan v2
+catatan: hasil test v2 (31 bulan) sudah dibuka sebelum v3; v3 dijalankan ulang tanpa mengubah kode model, hiperparameter, maupun batas
+b20315d1808d07db323a47ab08bf8c2b33129ed1537172866183f05c0ee2d757  primary/h1/artifacts/meta_dnn.keras
+34e9c01010194f4188bbdd4c0a85cc57cab17db62f9035f01c04701ec783a1f6  primary/h3/artifacts/meta_dnn.keras
+33f36fcb0032325f6aad0089ae7292563b6b1b8aec7c100cf95e5292a6a36fd3  primary/h6/artifacts/meta_dnn.keras
+4b9a30d8c05191434a46c0f418bdc59137dbcad780ae38ef71659ca0d46923de  primary/h1/artifacts/class_specific_thresholds.npy
+1b69bd3c7cb67aef8f08b37b3d7496648830fa3fe0e42aef9f87346f6580ee94  primary/h3/artifacts/class_specific_thresholds.npy
+a6e5ed4e912672e7b4127d95645163a07d18f26169ef22f0af71b5cfc638a3a1  primary/h6/artifacts/class_specific_thresholds.npy
+f1d767cfdb119835149e73780d685f58cf682c2856fe772b7d077c3dfb1ae82a  primary/h1/artifacts/meta_test.npy
+43c6b60114d4140817328cc4dd2a6975c130b608ae3bcd5d38a5afb18d5d66f1  primary/h3/artifacts/meta_test.npy
+72ceefab9df9e801efedeec0d09c9907ad4dffc2bd21cf46986efafb43933245  primary/h6/artifacts/meta_test.npy
+ce5038931aede2104a1a7a4df55f090f62bd5c803d1647e889e7e86b9934874a  ../code/mce_ilcadt_future_prediction.py
+3b6696131901a6daf68d38039b78844a9d6959fb4054ea587a4537fa5786a14f  ../code/who_haz.py
+heldout result files present: 0
+c76334892dde0c887356bd9c57dccd5a6f20c325c4255d270a9765311ea71324  frozen_ae_v3.tgz
+# ditambahkan setelah evaluasi (baris threshold gagal tercetak saat pembekuan karena salah kutip variabel); nilai dibaca dari file .npy yang hash-nya tercatat di atas:
+h1 thresholds {'normal': 0.27, 'stunted': 0.56, 'severely stunted': 0.44}
+h3 thresholds {'normal': 0.38, 'stunted': 0.24, 'severely stunted': 0.39}
+h6 thresholds {'normal': 0.51, 'stunted': 0.3, 'severely stunted': 0.41}
